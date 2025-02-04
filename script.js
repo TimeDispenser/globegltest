@@ -1,6 +1,6 @@
 const globe = Globe()(document.getElementById('globeViz'))
-  .globeImageUrl('https://github.com/TimeDispenser/zzzzzzzz/blob/master/example/clouds/earth-blue-marble.jpg?raw=true') // Replace with your map image URL
-  .backgroundImageUrl('//unpkg.com/three-globe@1.12.1/example/img/night-sky.png')
+  .globeImageUrl('https://drive.google.com/file/d/13gXQWeuAXBZdn2CyFWcSjv_amCZ03j2U/view?usp=sharing') // Replace with your map image URL
+  .backgroundImageUrl('https://drive.google.com/file/d/13VW2x6mZjOAGh3mY4WEyMB9mm_B9LZX7/view?usp=sharing')
   .showGraticules(true);
 
 // Remove loading indicator once the globe is ready
