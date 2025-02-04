@@ -1,6 +1,6 @@
 const globe = Globe()(document.getElementById('globeViz'))
-  .globeImageUrl('https://drive.google.com/file/d/13gXQWeuAXBZdn2CyFWcSjv_amCZ03j2U/view?usp=sharing') // Replace with your map image URL
-  .backgroundImageUrl('https://drive.google.com/file/d/13VW2x6mZjOAGh3mY4WEyMB9mm_B9LZX7/view?usp=sharing')
+  .globeImageUrl('https://i.postimg.cc/Mpw0s72p/earth-blue-marble.jpg') // Replace with your map image URL
+  .backgroundImageUrl('https://i.postimg.cc/MptBdgm9/earth-topology.png')
   .showGraticules(true);
 
 // Remove loading indicator once the globe is ready
